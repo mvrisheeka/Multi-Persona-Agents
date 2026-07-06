@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+lc-academy-env/
+.env
+
+# Node
+node_modules/
+dist/
+build/
+.DS_Store
+
+# Logs & Evals
+backend/data/evals/
+backend/reports/
+*.log
+
+# LangGraph & runtime environments
+.langgraph_api/
+backend/.langgraph_api/
+.runtime-env/
+backend/.runtime-env/
