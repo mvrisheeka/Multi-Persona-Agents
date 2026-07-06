@@ -1,0 +1,701 @@
+query,persona
+Explain DNS and how it works,teacher
+What is virtualization in cloud computing?,teacher
+Give important topics for DBMS exam,teacher
+Explain deadlock with example,teacher
+What is machine learning in simple words?,teacher
+List top networking questions for MCQ test,teacher
+Explain data structures for beginners,teacher
+What is operating system scheduling?,teacher
+Explain OOP concepts and their use in jobs,"teacher, senior"
+Teach me SQL and how it helps in placements,"teacher,senior"
+What should I eat to stay healthy during exams?,"parent,counselor"
+How to maintain a good daily routine?,parent
+Suggest simple food I can cook at hostel,parent
+How to manage time at home and studies?,parent
+"I am not sleeping well these days, what should I do?","parent,counselor"
+How to reduce mobile usage and focus more?,parent
+My parents scold me for low marks,"parent,counselor"
+How to take care of health during stress?,"parent,counselor"
+What are some healthy snacks?,parent
+How to balance food and studies?,"parent,counselor"
+What career options do I have after engineering?,senior
+I don’t know which field to choose for my future,"senior,counselor"
+How to prepare for software interviews?,senior
+What skills are required for data science?,senior
+Guide me for higher studies after graduation,senior
+Should I go for a job or masters?,"senior,counselor"
+Teach me Python and guide my career,"teacher,senior"
+What certifications help in IT jobs?,senior
+I feel scared about my career path,"senior,counselor"
+How to build a strong resume as a fresher?,senior
+"I’m bored, can you chat with me?",friend
+Say something funny,friend
+Just talk to me for a while,friend
+"I had a bad day, keep me company","friend,counselor"
+"Tell me a joke, I’m feeling low","friend,counselor"
+Let’s have a casual chat,friend
+"Make me laugh, I’m tired",friend
+"I feel lonely, talk to me","friend,counselor"
+"What’s up, I’m free now",friend
+"Just bored, entertain me",friend
+I am very stressed about my exams,"counselor,parent"
+I feel anxious about my future,"counselor,senior"
+I feel depressed after getting low marks,"counselor,parent"
+I feel lost and don’t know what to do,"counselor,senior"
+I am overthinking everything,counselor
+I feel like giving up on my dreams,"counselor,senior"
+I can’t handle pressure anymore,counselor
+I feel lonely and sad today,"counselor,friend"
+I am scared of failing in life,"counselor,senior"
+I need someone to motivate me,"counselor,friend"
+Explain the difference between HTTP and HTTPS,teacher
+What is a compiler and how does it work?,teacher
+Explain paging and segmentation in OS,teacher
+What is a data warehouse?,teacher
+Explain quicksort algorithm,teacher
+Give important questions for computer networks exam,teacher
+What is a microprocessor?,teacher
+Explain normalization in DBMS with example,teacher
+What is cybersecurity?,teacher
+Explain binary search algorithm,teacher
+How to cook simple vegetable curry,parent
+Suggest healthy lunch ideas,parent
+How to wake up early daily,parent
+Tips to avoid junk food,parent
+How to stay fit at home without gym,parent
+How to manage time between home and studies,parent
+What food gives energy for studying,parent
+How to keep my room clean,parent
+Suggest a good sleep routine,parent
+How to improve immunity at home,parent
+What jobs are good after computer science,senior
+How to start preparing for internships,senior
+What is the future of AI careers,senior
+How to grow professionally in IT,senior
+Which field has more scope in engineering,senior
+How to plan long term career goals,senior
+Should I learn web development or data science,senior
+How to switch my career to IT,senior
+What are the best certifications for freshers,senior
+How to become successful in life,senior
+Tell me something interesting,friend
+I just want to chat,friend
+Make me smile,friend
+"I’m free now, talk to me",friend
+Say something cool,friend
+Can you keep me company,friend
+I feel bored at hostel,friend
+Let’s have fun chatting,friend
+"Talk to me, I’m alone",friend
+Tell me a fun fact,friend
+I feel stressed about my parents expectations,"counselor,parent"
+I am scared about my career future,"counselor,senior"
+I feel very low after failing my test,"counselor,parent"
+I don’t know what to do in life,"counselor,senior"
+I am mentally exhausted these days,counselor
+I feel hopeless and sad,counselor
+I am worried about disappointing my parents,"counselor,parent"
+I feel nervous about interviews,"counselor,senior"
+I need emotional support right now,"counselor,friend"
+I feel alone even when people are around,"counselor,friend"
+Explain what is a deadlock in operating systems,teacher
+What is the difference between stack and queue,teacher
+Explain inheritance in object oriented programming,teacher
+Give key topics for computer architecture exam,teacher
+What is a hash table and how does it work,teacher
+Explain recursion in simple terms,teacher
+What is a relational database,teacher
+Explain the basics of artificial intelligence,teacher
+What is a data structure,teacher
+Explain the concept of time complexity,teacher
+How to prepare a simple breakfast at home,parent
+What food is good for energy in mornings,parent
+How to create a healthy daily routine,parent
+Tips to maintain discipline at home,parent
+How to avoid unhealthy eating habits,parent
+Suggest simple dinner ideas for students,parent
+How to manage screen time at home,parent
+How to take care of health during busy days,parent
+What are good habits to follow daily,parent
+How to keep myself active at home,parent
+What should I do to choose the right career,senior
+How to prepare for campus placements,senior
+What skills are needed for a software engineer,senior
+Guide me on career options after graduation,senior
+How to improve communication for interviews,senior
+What are good career paths in IT field,senior
+How to plan goals for the next five years,senior
+What is the roadmap to become a developer,senior
+How to grow professionally as a fresher,senior
+What should I focus on for long term success,senior
+Just chat with me for some time,friend
+Tell me something funny,friend
+I’m feeling bored right now,friend
+"Talk to me, I need company",friend
+Make me laugh please,friend
+Let’s have a friendly conversation,friend
+"I’m free now, let’s talk",friend
+Can you keep me entertained,friend
+Say something interesting,friend
+Just here to talk casually,friend
+I feel stressed and need someone to listen,counselor
+I feel very lonely today,counselor
+I am worried about my future career,"counselor,senior"
+I feel low after getting poor marks,"counselor,parent"
+I am anxious about upcoming exams,"counselor,parent"
+I don’t feel confident in myself,counselor
+I feel scared of failing in life,"counselor,senior"
+I am mentally tired and exhausted,counselor
+I need emotional support right now,"counselor,friend"
+I feel sad and want to talk,"counselor,friend"
+Explain the concept of virtual memory in OS,teacher
+What is the difference between primary and secondary memory,teacher
+Explain the working of a CPU,teacher
+What is normalization in databases,teacher
+Explain breadth first search algorithm,teacher
+What is an operating system kernel,teacher
+Explain object oriented programming in simple words,teacher
+What is the role of an assembler,teacher
+Explain the concept of multithreading,teacher
+What is a computer network,teacher
+How to cook simple rice at home,parent
+Suggest healthy evening snacks,parent
+How to maintain personal hygiene daily,parent
+Tips to stay active at home,parent
+How to make a balanced diet for students,parent
+How to manage time between study and rest,parent
+What food helps in better concentration,parent
+How to improve sleep quality naturally,parent
+How to reduce junk food cravings,parent
+How to build good habits at home,parent
+What career options are available after science,senior
+How to choose between job and higher studies,senior
+What are important skills for fresh graduates,senior
+Guide me on how to start my career,senior
+What is the roadmap to become a data analyst,senior
+How to prepare for technical interviews,senior
+What fields have good scope in future,senior
+How to develop leadership skills,senior
+What should I learn in my final year,senior
+How to set career goals for myself,senior
+Let’s just have a friendly chat,friend
+Tell me something fun,friend
+"I’m feeling bored, talk to me",friend
+Can you keep me company for a while,friend
+Say something cheerful,friend
+I want to talk casually,friend
+Make me smile today,friend
+"I’m free now, let’s chat",friend
+Just here to have a chat,friend
+Entertain me with something nice,friend
+I feel very anxious today,counselor
+I am stressed and don’t know what to do,counselor
+I feel lonely and need someone to talk,"counselor,friend"
+I am worried about my exams and health,"counselor,parent"
+I feel confused about my career future,"counselor,senior"
+I am mentally exhausted these days,counselor
+I feel low and unmotivated,counselor
+I am scared about failing my exams,"counselor,parent"
+I feel nervous about my future job,"counselor,senior"
+I need emotional support right now,"counselor,friend"
+Explain what is paging in operating systems,teacher
+What is the difference between process and thread,teacher
+Explain the concept of normalization in DBMS,teacher
+What is a deadlock prevention technique,teacher
+Explain the basics of computer networks,teacher
+What is the function of an operating system,teacher
+Explain the working of RAM and ROM,teacher
+What is a data model in DBMS,teacher
+Explain merge sort algorithm,teacher
+What is artificial intelligence in simple terms,teacher
+How to prepare healthy breakfast quickly,parent
+What are good foods for strong immunity,parent
+How to keep yourself hydrated daily,parent
+Tips to avoid late night sleeping,parent
+How to manage household chores with studies,parent
+What food helps reduce tiredness,parent
+How to stay fit without exercise equipment,parent
+How to maintain cleanliness in room,parent
+Suggest easy lunch ideas for students,parent
+How to create a good sleep routine,parent
+What are career options in software industry,senior
+How to prepare for coding interviews,senior
+What should I focus on in my first job,senior
+Guide me on choosing my specialization,senior
+How to improve technical skills as a fresher,senior
+What is the future of cloud computing careers,senior
+How to start building professional network,senior
+What should I learn to grow in IT field,senior
+How to handle career pressure,senior
+How to set long term career goals,senior
+"Just talk to me, I’m bored",friend
+Tell me something funny to cheer me up,friend
+I want to have a casual conversation,friend
+Can you keep me company right now,friend
+Say something interesting for me,friend
+"I’m free now, let’s chat",friend
+"Talk to me, I feel bored",friend
+Make me laugh a bit,friend
+I just want to chat,friend
+Entertain me please,friend
+I feel stressed about my future plans,"counselor,senior"
+I am worried about my health these days,"counselor,parent"
+I feel lonely and need someone to talk to,"counselor,friend"
+I am anxious about my exams,"counselor,parent"
+I feel confused about my career path,"counselor,senior"
+I am emotionally exhausted,counselor
+I feel low after getting poor results,"counselor,parent"
+I am scared of not succeeding in life,"counselor,senior"
+I feel sad and just want to talk,"counselor,friend"
+I need someone to listen to me,counselor
+Explain the difference between TCP and UDP,teacher
+What is a primary key in DBMS,teacher
+Explain bubble sort algorithm,teacher
+What is cloud computing in simple terms,teacher
+Explain the concept of recursion with example,teacher
+What is a compiler and interpreter,teacher
+Explain the basics of data communication,teacher
+What is an index in databases,teacher
+Explain the concept of virtual machines,teacher
+What is software engineering,teacher
+How to prepare simple dinner at home,parent
+Suggest healthy breakfast options for students,parent
+How to avoid skipping meals,parent
+What food is good during cold and fever,parent
+How to maintain good posture while studying,parent
+How to plan meals for a busy day,parent
+Tips to stay active without gym,parent
+How to reduce sugar intake,parent
+How to drink enough water daily,parent
+How to maintain a clean study space,parent
+What are good career options after graduation,senior
+How to prepare for aptitude tests,senior
+What skills are important for freshers in IT,senior
+Guide me to choose between software and core jobs,senior
+How to improve problem solving skills,senior
+What is the roadmap to become a full stack developer,senior
+How to gain confidence for interviews,senior
+What should I learn during internship,senior
+How to set realistic career goals,senior
+How to grow in my professional life,senior
+Just chat with me for a bit,friend
+Tell me a joke to make me laugh,friend
+"I’m feeling bored, can we talk",friend
+Say something nice,friend
+Keep me company for some time,friend
+I want to have a fun chat,friend
+Make me smile today,friend
+Talk to me I am  free now,friend
+Entertain me with something fun,friend
+Let’s have a casual conversation,friend
+I feel very anxious about my future,"counselor,senior"
+I am stressed about my health and studies,"counselor,parent"
+I feel lonely and want someone to talk,"counselor,friend"
+I am worried about failing exams,"counselor,parent"
+I feel confused about my career direction,"counselor,senior"
+I am mentally exhausted and tired,counselor
+I feel low after poor performance,"counselor,parent"
+I am scared of not getting a job,"counselor,senior"
+I feel sad and just want to chat,"counselor,friend"
+I need emotional support right now,counselor
+Explain what is a mutex in operating systems,teacher
+What is the difference between LAN and WAN,teacher
+Explain the concept of normalization with example,teacher
+What is a firewall and why is it used,teacher
+Explain the working of a DNS server,teacher
+What is an algorithm and why is it important,teacher
+Explain the basics of machine learning,teacher
+What is a foreign key in DBMS,teacher
+Explain depth first search algorithm,teacher
+What is the purpose of an operating system,teacher
+How to make simple healthy snacks at home,parent
+Suggest easy breakfast ideas for busy mornings,parent
+How to avoid overeating at night,parent
+What food helps improve memory,parent
+How to stay energetic during long study hours,parent
+How to manage screen time at home,parent
+Tips to keep yourself active indoors,parent
+How to improve digestion naturally,parent
+How to maintain good hygiene daily,parent
+How to follow a balanced diet regularly,parent
+What should I do to start my career,senior
+How to prepare for technical aptitude rounds,senior
+What are important skills for software jobs,senior
+Guide me on choosing my first job,senior
+How to build confidence for interviews,senior
+What is the roadmap to become a cloud engineer,senior
+How to improve communication for workplace,senior
+What should I learn to switch to IT career,senior
+How to set achievable career milestones,senior
+How to grow as a professional in early career,senior
+"Just talk to me, I feel bored",friend
+Tell me something funny please,friend
+I want to have a light chat,friend
+Say something interesting for me,friend
+Can you keep me company right now,friend
+Let’s chat casually,friend
+Make me laugh a little,friend
+"I’m free, talk to me",friend
+Just here to talk for fun,friend
+Entertain me with a nice chat,friend
+I feel anxious and need someone to listen,counselor
+I am worried about my parents expectations,"counselor,parent"
+I feel confused about my future career,"counselor,senior"
+I feel lonely and want to talk,"counselor,friend"
+I am stressed about upcoming exams,"counselor,parent"
+I am mentally tired these days,counselor
+I feel scared of failing in life,"counselor,senior"
+I feel sad and just want someone to chat,"counselor,friend"
+I need emotional support right now,counselor
+I feel low and unmotivated today,counselor
+Explain the concept of deadlock avoidance,teacher
+What is the difference between RAM and cache memory,teacher
+Explain how a web server works,teacher
+What is a linked list in data structures,teacher
+Explain the basics of computer security,teacher
+What is a context switch in OS,teacher
+Explain the working of a compiler,teacher
+What is a view in DBMS,teacher
+Explain insertion sort algorithm,teacher
+What is software testing,teacher
+How to prepare quick healthy lunch at home,parent
+Suggest foods to boost immunity,parent
+How to manage meals during busy schedule,parent
+What food is good before exams,parent
+How to reduce eye strain while studying,parent
+How to stay hydrated throughout the day,parent
+Tips to avoid late night snacking,parent
+How to maintain cleanliness at home,parent
+How to create a balanced diet plan,parent
+How to improve digestion with home remedies,parent
+What should I do after finishing my degree,senior
+How to prepare for company HR rounds,senior
+What skills should I learn for IT jobs,senior
+Guide me on choosing between different job offers,senior
+How to improve resume for freshers,senior
+What is the roadmap to become a software tester,senior
+How to plan career growth in first job,senior
+What should I focus on in early career stage,senior
+How to decide my career specialization,senior
+How to develop professional attitude,senior
+I just want to chat I’m bored,friend
+Tell me something fun to hear,friend
+Let’s have a friendly talk,friend
+Say something funny to cheer me up,friend
+"Talk to me, I’m free now",friend
+Can you keep me entertained for a while,friend
+Make me smile with something nice,friend
+"I feel bored, chat with me",friend
+Just here for a casual conversation,friend
+Entertain me please,friend
+I feel stressed and anxious today,counselor
+I am worried about my health and studies,"counselor,parent"
+I feel confused about my career decisions,"counselor,senior"
+I feel lonely and want someone to talk to,"counselor,friend"
+I am anxious about upcoming exams,"counselor,parent"
+I am emotionally exhausted these days,counselor
+I feel scared about my future job,"counselor,senior"
+I feel sad and want to chat,"counselor,friend"
+I need someone to motivate me,"counselor,friend"
+I feel low and unconfident,counselor
+Explain what is process synchronization in OS,teacher
+What is the difference between hub and switch,teacher
+Explain the concept of indexing in DBMS,teacher
+What is a virtual private network,teacher
+Explain the basics of software development life cycle,teacher
+What is an API and why is it used,teacher
+Explain the concept of load balancing,teacher
+What is a binary tree in data structures,teacher
+Explain the working of HTTP protocol,teacher
+What is data mining,teacher
+How to prepare healthy evening snacks at home,parent
+Suggest simple breakfast for hostel students,parent
+How to avoid skipping breakfast,parent
+What food helps in reducing stress,parent
+How to manage diet during exams,parent
+How to stay active while studying at home,parent
+Tips to improve posture while sitting long,parent
+How to reduce junk food cravings,parent
+How to maintain proper sleep schedule,parent
+How to eat balanced meals daily,parent
+What career options are there after BTech,senior
+How to start preparing for placements early,senior
+What skills are required for cloud engineer,senior
+Guide me on choosing elective subjects,senior
+How to prepare for group discussions,senior
+What is the roadmap to become a data scientist,senior
+How to improve problem solving for coding,senior
+What should I focus on during final year,senior
+How to set career priorities,senior
+How to grow fast in professional life,senior
+"Just chat with me, I’m bored",friend
+Tell me something funny,friend
+I want to talk casually,friend
+Say something interesting,friend
+Keep me company for a while,friend
+Let’s have a friendly chat,friend
+Make me smile today,friend
+"Talk to me, I’m free now",friend
+Entertain me a bit,friend
+I just want to chat,friend
+I feel anxious about my future,"counselor,senior"
+I am stressed about my exams and health,"counselor,parent"
+I feel lonely and want someone to talk to,"counselor,friend"
+I am worried about my parents expectations,"counselor,parent"
+I feel confused about my career path,"counselor,senior"
+I am mentally exhausted these days,counselor
+I feel scared of failing in life,"counselor,senior"
+I feel sad and just want to chat,"counselor,friend"
+I need emotional support right now,counselor
+I feel low and unmotivated,counselor
+Explain the concept of multitasking in operating systems,teacher
+What is the difference between TCP and UDP protocols,teacher
+Explain what is normalization in DBMS with example,teacher
+What is a software requirement specification,teacher
+Explain the working of a router in networks,teacher
+What is an array in data structures,teacher
+Explain the basics of cyber security,teacher
+What is the role of a compiler,teacher
+Explain selection sort algorithm,teacher
+What is cloud storage,teacher
+How to prepare a simple healthy dinner,parent
+Suggest foods that improve concentration,parent
+How to manage meals during exam time,parent
+What food helps in reducing tiredness,parent
+How to maintain good posture while studying,parent
+How to improve sleep quality naturally,parent
+Tips to avoid unhealthy snacks,parent
+How to stay hydrated throughout the day,parent
+How to keep yourself active at home,parent
+How to build healthy habits daily,parent
+What should I do after completing my studies,senior
+How to prepare for technical interviews as fresher,senior
+What skills are important for software engineers,senior
+Guide me on choosing my first job role,senior
+How to build a career in data science,senior
+What is the roadmap to become a web developer,senior
+How to improve communication for interviews,senior
+What should I focus on in my early career,senior
+How to set realistic career goals,senior
+How to grow professionally in first job,senior
+"Just talk to me, I feel bored",friend
+Tell me something funny to cheer me up,friend
+I want to have a casual chat,friend
+Say something interesting,friend
+Keep me company for some time,friend
+Let’s chat for fun,friend
+Make me smile today,friend
+I’m free now talk to me,friend
+Entertain me with something nice,friend
+I just want to chat casually,friend
+I feel anxious about my future plans,"counselor,senior"
+I am stressed about my health and exams,"counselor,parent"
+I feel lonely and want someone to talk,"counselor,friend"
+I am worried about disappointing my parents,"counselor,parent"
+I feel confused about my career choices,"counselor,senior"
+I am mentally exhausted and tired,counselor
+I feel scared of not succeeding in life,"counselor,senior"
+I feel sad and just want to chat,"counselor,friend"
+I need someone to listen to me,counselor
+I feel low and unmotivated today,counselor
+What is the difference between a list and a tuple in Python?,teacher
+Explain the concept of encapsulation with a real-world example,teacher
+How does a graph data structure work?,teacher
+What is the purpose of a foreign key in a relational database?,teacher
+Explain how the internet works in simple terms,teacher
+What is the difference between front-end and back-end development?,teacher
+How does version control work in Git?,teacher
+What is the difference between a while loop and a for loop?,teacher
+How does exception handling work in Java?,teacher
+What is the difference between SQL and NoSQL databases?,teacher
+How does public key encryption work?,teacher
+What is the difference between a class and an object?,teacher
+How does the DOM work in web development?,teacher
+What is the difference between compiled and interpreted languages?,teacher
+How does load balancing work in distributed systems?,teacher
+What is the role of a constructor in OOP?,teacher
+Explain the difference between IPv4 and IPv6,teacher
+What is the purpose of unit testing in software development?,teacher
+How does a neural network learn from data?,teacher
+What is the use of Docker in software development?,teacher
+What are some good foods to eat when feeling tired?,parent
+How do I maintain a regular sleep schedule during exams?,parent
+What are some simple ways to keep my immune system strong?,parent
+How do I deal with back pain from sitting too long?,parent
+What is a good grocery list for a student on a budget?,parent
+How do I stop skipping meals when I am busy?,parent
+What are some ways to stay physically active without a gym?,parent
+What are the benefits of drinking enough water every day?,parent
+How do I avoid unhealthy snacking late at night?,parent
+What are some home remedies for a sore throat?,parent
+How do I recover quickly after pulling an all-nighter?,parent
+What are some affordable self-care ideas for students?,parent
+How do I manage headaches without always taking medicine?,parent
+What is a healthy dinner I can make in under 30 minutes?,parent
+How do I stay consistent with a routine when life gets busy?,parent
+What are some signs of burnout I should watch out for?,parent
+How do I improve my posture while studying at a desk?,parent
+What are some ways to reduce screen time before bed?,parent
+How do I build a simple weekly meal plan on a budget?,parent
+What vitamins and nutrients should students focus on?,parent
+How do I decide between a government job and a private job?,senior
+What should I know before starting my own business?,senior
+How do I build an emergency fund on a low salary?,senior
+How do I stay motivated when my career is not growing fast?,senior
+How do I handle a colleague who takes credit for my work?,senior
+What are the signs that a job is not right for me?,senior
+What should I do in the first 90 days of a new job?,senior
+What are the most important soft skills employers look for?,senior
+How do I prepare for a performance review at work?,senior
+What is the right way to resign from a job professionally?,senior
+What are some red flags to watch for during a job interview?,senior
+What is the value of building a personal brand online?,senior
+How do I identify my strengths and use them in my career?,senior
+How do I cope when I feel stuck in my current job?,senior
+How do I handle gaps in my resume during interviews?,senior
+What are realistic career goals I should set in my twenties?,senior
+How do I find a mentor in my professional field?,senior
+What certifications are most valuable in the tech industry?,senior
+What should I prioritize when evaluating a job offer?,senior
+How do I deal with failure and rejection early in my career?,senior
+What are some fun ways to spend a free evening alone?,friend
+Give me a fun fact I can share with my friends today,friend
+Suggest a creative project I can do at home this weekend,friend
+Tell me a light-hearted joke to share in my friend group,friend
+What are some good ways to celebrate small wins?,friend
+What are some simple outdoor activities I can do nearby?,friend
+Give me a fun challenge I can try with my roommate,friend
+What is something I can do to make a friend feel special today?,friend
+What are some ways to make new friends in college?,friend
+What is a good way to unwind after a stressful week?,friend
+Give me ideas for a fun group activity indoors,friend
+What is a feel-good movie I can watch tonight?,friend
+What are some easy ways to learn something new every day?,friend
+What is a good way to start a conversation with someone new?,friend
+What are some things I can do to make today more enjoyable?,friend
+What is a fun skill I can learn in under a week?,friend
+Give me three things I can look forward to this week,friend
+Tell me something cool about how the human brain works,friend
+What are some fun things to try when I have a free afternoon?,friend
+Suggest a fun topic I can read about just out of curiosity,friend
+I feel like no one truly understands what I am going through,counselor
+I cry for no reason sometimes and I do not know why,counselor
+I feel worthless and like I am a burden to everyone around me,counselor
+I have been feeling numb and disconnected from everything lately,counselor
+I am scared of being alone with my own thoughts,counselor
+I feel like I am losing control of my emotions,counselor
+I do not feel excited about anything anymore,counselor
+I feel like I am always on the verge of breaking down,counselor
+I feel guilty about things I cannot even properly explain,counselor
+I feel like I am pretending to be okay all the time,counselor
+I feel invisible and like nothing I do matters,counselor
+I have been feeling very low for weeks and cannot shake it off,counselor
+I feel like I disappoint everyone no matter how hard I try,counselor
+I have been having very dark thoughts lately and it scares me,counselor
+I feel extremely alone even when I am not physically by myself,counselor
+I feel like I am not good enough for anything or anyone,counselor
+I have no motivation to do anything and it has been going on too long,counselor
+I feel like my emotions are too much for other people to handle,counselor
+I am struggling to find any reason to feel positive about my life,counselor
+I feel mentally exhausted all the time and do not know how to rest,counselor
+I feel paralysed when thinking about my career and do not know where to begin,"counselor,senior"
+I got a good job offer but something feels off and I cannot explain it,"counselor,senior"
+Everyone around me seems to be succeeding and I feel left behind,"counselor,senior"
+I am scared of committing to any career path in case I choose the wrong one,"counselor,senior"
+My job is making me miserable but I am afraid to quit,"counselor,senior"
+I keep comparing my salary to my peers and it makes me feel inadequate,"counselor,senior"
+I want to pursue my passion but I am scared it will not pay well,"counselor,senior"
+I feel like I made the wrong career choice and do not know how to fix it,"counselor,senior"
+I have an interview tomorrow and I am too anxious to prepare properly,"counselor,senior"
+I feel like a failure after being laid off from my first job,"counselor,senior"
+I do not know whether to accept a job far from home and it is stressing me out,"counselor,senior"
+I feel burnt out at work but cannot afford to take a break,"counselor,senior"
+I keep self-sabotaging in interviews and I do not understand why,"counselor,senior"
+I am in a job I hate and it is starting to affect my mental health badly,"counselor,senior"
+I want to start over in a new field but fear judgment from others,"counselor,senior"
+I feel anxious every Sunday night thinking about the week ahead at work,"counselor,senior"
+I feel like I wasted my college years and now I am behind in my career,"counselor,senior"
+I do not know what career suits me and the uncertainty is making me anxious,"counselor,senior"
+I feel like I am not cut out for the corporate world at all,"counselor,senior"
+I feel pressure from all sides to be successful and it is overwhelming me,"counselor,senior"
+I feel like I am losing my closest friends and it hurts deeply,"counselor,friend"
+My friend group has changed and I feel like I do not belong anymore,"counselor,friend"
+I am dealing with a falling out with my best friend and feel completely empty,"counselor,friend"
+I feel like I always give more in friendships than I ever receive,"counselor,friend"
+I have been isolating myself and pushing people away without meaning to,"counselor,friend"
+I feel like no one really wants to spend time with me,"counselor,friend"
+I have been pretending to be happy around my friends but I am not okay,"counselor,friend"
+I feel lonely even when I am surrounded by people,"counselor,friend"
+I am struggling after a friendship ended badly and I cannot move on,"counselor,friend"
+I feel socially anxious even around people I know very well,"counselor,friend"
+My friends do not take my feelings seriously and it really upsets me,"counselor,friend"
+I feel like I have to mask my true self just to fit in with my peers,"counselor,friend"
+I am scared of being vulnerable with people in case they leave me,"counselor,friend"
+I feel like my friends have moved on with their lives and I am stuck,"counselor,friend"
+I too anxious to make new friends and it is making college very lonely,"counselor,friend"
+I feel like I am constantly disappointing my family no matter what I do,"counselor,parent"
+My parents have very high expectations and the pressure is breaking me,"counselor,parent"
+I feel guilty every time I spend time on myself instead of studying,"counselor,parent"
+I am not eating or sleeping properly and I have stopped caring about it,"counselor,parent"
+I feel like my health is falling apart because of the stress I am carrying,"counselor,parent"
+I feel too exhausted to take care of myself in any way lately,"counselor,parent"
+My parents do not understand what I am going through and it makes me feel very alone,"counselor,parent"
+I feel so overwhelmed that even basic self-care feels completely impossible,"counselor,parent"
+I am struggling to maintain any routine because of my mental state,"counselor,parent"
+I feel like I am slowly falling apart and hiding it from my entire family,"counselor,parent"
+I have been skipping meals out of stress and my family has not noticed,"counselor,parent"
+I feel trapped between what my family wants and what I need for myself,"counselor,parent"
+I feel homesick and it is affecting how I eat and take care of myself,"counselor,parent"
+I feel like I have no one at home I can turn to when I am struggling,"counselor,parent"
+I cannot sleep because I keep worrying about my studies and disappointing my parents,"counselor,parent"
+I feel like I am too stupid to understand what everyone else finds easy,"counselor,teacher"
+I panic during exams even when I have studied well and it is ruining my grades,"counselor,teacher"
+I feel so far behind in my course that I have given up trying to catch up,"counselor,teacher"
+I have lost all interest in my subject and do not know how to get it back,"counselor,teacher"
+I am scared of asking questions in class because I fear being judged,"counselor,teacher"
+I keep failing assessments and I am starting to believe I am simply not capable,"counselor,teacher"
+I feel ashamed of my academic performance and hide it from everyone around me,"counselor,teacher"
+I cannot focus on studying no matter how hard I try and it is really scaring me,"counselor,teacher"
+I am terrified of failing my final year and do not know who to talk to,"counselor,teacher"
+I want to drop out because I cannot cope but I feel too ashamed to say it,"counselor,teacher"
+My anxiety about academic failure is stopping me from even opening my books,"counselor,teacher"
+I feel like studying is pointless but I am scared of what happens if I stop,"counselor,teacher"
+I feel like a disappointment to my professors and my classmates,"counselor,teacher"
+I feel overwhelmed by the coursework and have completely shut down emotionally,"counselor,teacher"
+I cannot stop overthinking my exam results and it is affecting everything else,"counselor,teacher"
+What technical skills should I focus on to get a job in data science?,"teacher,senior"
+What programming languages are most valued by employers right now?,"teacher,senior"
+How do I bridge the gap between what I learned in college and what jobs actually require?,"teacher,senior"
+What projects should I build to improve my chances at campus placements?,"teacher,senior"
+What should I study to prepare for a product management role?,"teacher,senior"
+How do I turn my final year project into something that impresses recruiters?,"teacher,senior"
+What are the technical topics I must know before a software engineering interview?,"teacher,senior"
+How do I learn system design as a student with no work experience?,"teacher,senior"
+What are the best free resources to learn cloud computing for job readiness?,"teacher,senior"
+How do I use my academic knowledge practically in a real work environment?,"teacher,senior"
+How do I maintain a healthy lifestyle while working long hours at my first job?,"parent,senior"
+How do I manage cooking and eating well when I am exhausted after work?,"parent,senior"
+What habits should I build now to stay healthy as I enter the working world?,"parent,senior"
+How do I manage finances and also take care of my health on a small salary?,"parent,senior"
+What is a good daily routine for someone who just started their first corporate job?,"parent,senior"
+How do I avoid the lifestyle decline that comes with a stressful demanding job?,"parent,senior"
+How do I balance long work hours with staying physically and mentally healthy?,"parent,senior"
+What are some habits successful people maintain even during very busy work periods?,"parent,senior"
+How do I stop neglecting my health when work becomes completely overwhelming?,"parent,senior"
+What should I keep in mind about health and money as a new working professional?,"parent,senior"
+What are fun and healthy activities I can do with my college friends on weekends?,"parent,friend"
+How do I maintain a social life without compromising my health and sleep?,"parent,friend"
+What are some fun group activities that are also good for our overall wellbeing?,"parent,friend"
+How do I balance taking care of myself and still having fun with my friends?,"parent,friend"
+What are some healthy snack ideas I can bring to share at a friends gathering?,"parent,friend"
+What are some fun ways to study with friends and actually retain the information?,"teacher,friend"
+How do I make group study sessions both productive and enjoyable for everyone?,"teacher,friend"
+What are some interesting topics I can explore casually without it feeling like studying?,"teacher,friend"
+How do I stay curious and keep learning even outside of my academic syllabus?,"teacher,friend"
+What are some fun educational activities I can try with my classmates?,"teacher,friend"
+I feel like I have completely lost my sense of self and direction,"counselor,friend"
+I feel disconnected from my friends and prefer being alone but it also makes me sad,"counselor,friend"
+I feel mentally drained and it is showing in how I take care of myself,"counselor,parent"
+I feel scared of failing and it is stopping me from even attempting my assignments,"counselor,teacher"
+I am overwhelmed by all my responsibilities and feel like I am drowning,"counselor,senior"

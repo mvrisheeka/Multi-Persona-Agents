@@ -1,0 +1,7 @@
+[
+  {"name": "dsa_exam", "query": "what shall i study for my dsa exam in 1 hour?"},
+  {"name": "failed_viva", "query": "i failed my viva and feel really bad"},
+  {"name": "career_after_fail", "query": "i failed my viva, what should i do next for my career?"},
+  {"name": "bored", "query": "im bored talk to me"},
+  {"name": "iot_questions", "query": "give 20 important viva questions for IoT"}
+]
