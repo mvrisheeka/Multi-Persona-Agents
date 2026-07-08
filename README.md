@@ -137,8 +137,6 @@ ollama serve
 ```
 
 
-Built with ❤️ by the Intelligence Deck Team.
-
 
 
 
